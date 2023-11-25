@@ -11,9 +11,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Rk_botowner>☢ RK ☢</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Expert_botz>☢ RK ☢</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Rk_botz>RK Updates 👾</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/movi_group_hd>RK Updates 👾</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
@@ -50,7 +50,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Rk_botowner)</code>
+<code>[Button Text](buttonurl:https://t.me/Expert_botz)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -194,7 +194,7 @@ Pʟᴇᴀsᴇ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ 🤧</b>
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ:- Cynite
 ᴜsᴇʀɴᴀᴍᴇ:- @cynitesupport
-ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/cynitesupport'>Cynite</a></b>
+ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ:- <a href='https://t.me/movi_group_hd'>Cynite</a></b>
 """
 
     CYNITE_IMDB = """
@@ -327,7 +327,7 @@ https://t.me/CyniteBackup </code>
 
 ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
 
-Powered by :-  @Rk_botz
+Powered by :- @movi_group_hd
 """
 
     SPLMD = """
@@ -341,7 +341,7 @@ sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
 
 🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
 
-Powered by :- @Rk_botz
+Powered by :- @movi_group_hd
 """
     
     REQUEST_TXT = """
@@ -424,7 +424,7 @@ Kɪɴᴅʟʏ Cʜᴇᴄᴋ Tʜᴇ Bᴏᴛ Bᴇғᴏʀᴇ Rᴇǫᴜᴇsᴛɪɴɢ.<
 
 🔅 Pᴏᴡᴇʀᴇᴅ Bʏ :- {}
 
-<a href='https://t.me/Cynitebackup'>‣ Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ ʙᴇ Aᴜᴛᴏ-Dᴇʟᴇᴛᴇᴅ Aғᴛᴇʀ 5 Mɪɴᴜᴛᴇs. Kɪɴᴅʟʏ Fᴏʀᴡᴀʀᴅ Yᴏᴜʀ Fɪʟᴇs Tᴏ Sᴀᴠᴇᴅ.</a></b>"""
+<a href='https://t.me/movi_group_hd'>‣ Tʜɪs Mᴇssᴀɢᴇ Wɪʟʟ ʙᴇ Aᴜᴛᴏ-Dᴇʟᴇᴛᴇᴅ Aғᴛᴇʀ 5 Mɪɴᴜᴛᴇs. Kɪɴᴅʟʏ Fᴏʀᴡᴀʀᴅ Yᴏᴜʀ Fɪʟᴇs Tᴏ Sᴀᴠᴇᴅ.</a></b>"""
 
     FILE_READY_TXT = """
 <b>Hᴇʏ {}
@@ -442,6 +442,6 @@ Cʜᴇᴄᴋ Dᴏᴡɴ Tᴏ Vɪᴇᴡ.
 🔘 𝑭𝒊𝒍𝒆 𝑺𝒊𝒛𝒆 : {file_size}
 
 ╔══════════════════╗
-       <a href=https://telegram.dog/Rkmovie_group>ᴊᴏɪɴ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a>
-       <a href=https://telegram.dog/Rk_update>ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ​​</a>
+       <a href=https://telegram.dog/ac_movies_group>ᴊᴏɪɴ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a>
+       <a href=https://telegram.dog/movi_group_hd>ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ​​</a>
 ╚══════════════════╝</b>"""
