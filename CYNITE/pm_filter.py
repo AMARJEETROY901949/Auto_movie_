@@ -719,10 +719,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "cynite_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/rk_update')
+                      InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/movi_group_hd')
                      ], [
-                      InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/rk_update'),
-                      InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/Rk_botz')
+                      InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/movi_group_hd'),
+                      InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/movi_group_hd')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
