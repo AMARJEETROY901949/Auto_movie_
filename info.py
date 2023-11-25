@@ -43,8 +43,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rishi08")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/ipopcornofficialgroup')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/rk_update')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/CINEMA_HUB_GROUP0')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movi_group_hd')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://telegram.dog/Rkbotzbot')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
@@ -52,11 +52,11 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001650225505))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001699469796))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', '')
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/Rk_back_up/18')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/movi_group_hd/60')
 
 # Log Channels
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001341141783))
-RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', -1001341141783))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1002114441925))
+RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', -1002114441925))
 
 # Bot Options
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
@@ -86,8 +86,8 @@ SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # URL SHORTNER
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'onepagelink.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'c47e1c4469c0a66e74af73153cb8f4d3b304d010')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'ziplinker.net')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'be4cd844273ae5edebe575dcb14767ed573a3b16')
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
